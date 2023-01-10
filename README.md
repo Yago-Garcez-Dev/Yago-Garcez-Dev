@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Yago-Garcez-Dev
-- 👀 I’m interested in Front-End and Back-End Development with JavaScript
-- 🌱 I’m currently learning ReactJS, NextJS and NodeJS
+- 👀 I’m interested in Back-End Development with Java and Front-End Development with JavaScript.
 - 📫 How to reach me:
   E-mail: yago.garcez@outlook.com  |  Linkedin: https://www.linkedin.com/in/yago-garcez/
   
